@@ -74,6 +74,10 @@ const staff = [
 const numbers2 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 ```
 
+
+
+
+
 - [ ] 5.- Dado el array foodList2, genera un segundo array result5 que filtre los platos veganos y saque una sentencia como la del ejemplo
 ```
 ['Que rico Tempeh me voy a comer!',
